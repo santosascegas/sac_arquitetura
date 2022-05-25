@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_cN5msNvAEeywRcQsMguUQw" name="SantosAsCegas - caso de uso Administrador">
+  <packageImport xmi:type="uml:PackageImport" xmi:id="_cOVEgNvAEeywRcQsMguUQw">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+  </packageImport>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_dEpogNvAEeywRcQsMguUQw" name="Administrador"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_gTMoINvAEeywRcQsMguUQw" name="Efetua login"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_hw7KYNvAEeywRcQsMguUQw" name="Consulta agendamentos">
+    <include xmi:type="uml:Include" xmi:id="_AnLs4NvBEeywRcQsMguUQw" addition="_wBTfwNvAEeywRcQsMguUQw"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_mY3l4NvAEeywRcQsMguUQw" name="Consulta postagem">
+    <include xmi:type="uml:Include" xmi:id="_BVYPoNvBEeywRcQsMguUQw" addition="_wBTfwNvAEeywRcQsMguUQw"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_o69IINvAEeywRcQsMguUQw" name="Link de postagem sem verificação"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_wBTfwNvAEeywRcQsMguUQw" name="aceitar"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_yX0EINvAEeywRcQsMguUQw" memberEnd="_yX0EI9vAEeywRcQsMguUQw _yX0EJNvAEeywRcQsMguUQw">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_yX0EIdvAEeywRcQsMguUQw" source="org.eclipse.papyrus">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_yX0EItvAEeywRcQsMguUQw" key="nature" value="UML_Nature"/>
+    </eAnnotations>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_yX0EI9vAEeywRcQsMguUQw" name="efetua login" type="_gTMoINvAEeywRcQsMguUQw" association="_yX0EINvAEeywRcQsMguUQw"/>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_yX0EJNvAEeywRcQsMguUQw" name="administrador" type="_dEpogNvAEeywRcQsMguUQw" association="_yX0EINvAEeywRcQsMguUQw"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_0FyB0NvAEeywRcQsMguUQw" memberEnd="_0FyB09vAEeywRcQsMguUQw _0FyB1NvAEeywRcQsMguUQw">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_0FyB0dvAEeywRcQsMguUQw" source="org.eclipse.papyrus">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_0FyB0tvAEeywRcQsMguUQw" key="nature" value="UML_Nature"/>
+    </eAnnotations>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_0FyB09vAEeywRcQsMguUQw" name="administrador" type="_dEpogNvAEeywRcQsMguUQw" association="_0FyB0NvAEeywRcQsMguUQw"/>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_0FyB1NvAEeywRcQsMguUQw" name="consulta agendamentos" type="_hw7KYNvAEeywRcQsMguUQw" association="_0FyB0NvAEeywRcQsMguUQw"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_1I-kMNvAEeywRcQsMguUQw" memberEnd="_1I-kM9vAEeywRcQsMguUQw _1I-kNNvAEeywRcQsMguUQw">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_1I-kMdvAEeywRcQsMguUQw" source="org.eclipse.papyrus">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_1I-kMtvAEeywRcQsMguUQw" key="nature" value="UML_Nature"/>
+    </eAnnotations>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_1I-kM9vAEeywRcQsMguUQw" name="administrador" type="_dEpogNvAEeywRcQsMguUQw" association="_1I-kMNvAEeywRcQsMguUQw"/>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_1I-kNNvAEeywRcQsMguUQw" name="consulta postagem" type="_mY3l4NvAEeywRcQsMguUQw" association="_1I-kMNvAEeywRcQsMguUQw"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_2AQxgNvAEeywRcQsMguUQw" memberEnd="_2AQxg9vAEeywRcQsMguUQw _2AQxhNvAEeywRcQsMguUQw">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_2AQxgdvAEeywRcQsMguUQw" source="org.eclipse.papyrus">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_2AQxgtvAEeywRcQsMguUQw" key="nature" value="UML_Nature"/>
+    </eAnnotations>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_2AQxg9vAEeywRcQsMguUQw" name="administrador" type="_dEpogNvAEeywRcQsMguUQw" association="_2AQxgNvAEeywRcQsMguUQw"/>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_2AQxhNvAEeywRcQsMguUQw" name="link de postagem sem verificação" type="_o69IINvAEeywRcQsMguUQw" association="_2AQxgNvAEeywRcQsMguUQw"/>
+  </packagedElement>
+</uml:Model>

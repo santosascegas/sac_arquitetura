@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_cN94INvAEeywRcQsMguUQw" type="UseCase" name="Use Case Diagram" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_dEpogdvAEeywRcQsMguUQw" type="Actor_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_dEyycNvAEeywRcQsMguUQw" type="Actor_NameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_dEyycdvAEeywRcQsMguUQw" y="15"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_dEyyctvAEeywRcQsMguUQw" type="Actor_StereotypeLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_dEyyc9vAEeywRcQsMguUQw" x="20" y="100"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_dEyydNvAEeywRcQsMguUQw" type="Actor_QualifiedNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_dEyyddvAEeywRcQsMguUQw" x="20" y="80"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_dEyydtvAEeywRcQsMguUQw" type="Actor_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_dEyyd9vAEeywRcQsMguUQw" y="15"/>
+    </children>
+    <element xmi:type="uml:Actor" href="SantosAsCegas%20-%20caso%20de%20uso%20Administrador.uml#_dEpogNvAEeywRcQsMguUQw"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_dEpogtvAEeywRcQsMguUQw" x="260" y="120" width="61" height="101"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_gTMoIdvAEeywRcQsMguUQw" type="UseCase_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_gTMoI9vAEeywRcQsMguUQw" type="UseCase_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_gTMoJNvAEeywRcQsMguUQw" type="UseCase_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_gTMoJdvAEeywRcQsMguUQw" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_gTMoJtvAEeywRcQsMguUQw" type="UseCase_ExtensionPointCompartment">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_gTMoJ9vAEeywRcQsMguUQw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_gTMoKNvAEeywRcQsMguUQw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gTMoKdvAEeywRcQsMguUQw"/>
+    </children>
+    <element xmi:type="uml:UseCase" href="SantosAsCegas%20-%20caso%20de%20uso%20Administrador.uml#_gTMoINvAEeywRcQsMguUQw"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gTMoItvAEeywRcQsMguUQw" x="400" y="40"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_hw7KYdvAEeywRcQsMguUQw" type="UseCase_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_hw7KY9vAEeywRcQsMguUQw" type="UseCase_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_hw7KZNvAEeywRcQsMguUQw" type="UseCase_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_hw7KZdvAEeywRcQsMguUQw" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_hw7KZtvAEeywRcQsMguUQw" type="UseCase_ExtensionPointCompartment">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_hw7KZ9vAEeywRcQsMguUQw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_hw7KaNvAEeywRcQsMguUQw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hw7KadvAEeywRcQsMguUQw"/>
+    </children>
+    <element xmi:type="uml:UseCase" href="SantosAsCegas%20-%20caso%20de%20uso%20Administrador.uml#_hw7KYNvAEeywRcQsMguUQw"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hw7KYtvAEeywRcQsMguUQw" x="400" y="120"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_mY3l4dvAEeywRcQsMguUQw" type="UseCase_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_mY3l49vAEeywRcQsMguUQw" type="UseCase_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_mY3l5NvAEeywRcQsMguUQw" type="UseCase_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_mY3l5dvAEeywRcQsMguUQw" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_mY3l5tvAEeywRcQsMguUQw" type="UseCase_ExtensionPointCompartment">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_mY3l59vAEeywRcQsMguUQw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_mY3l6NvAEeywRcQsMguUQw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mY3l6dvAEeywRcQsMguUQw"/>
+    </children>
+    <element xmi:type="uml:UseCase" href="SantosAsCegas%20-%20caso%20de%20uso%20Administrador.uml#_mY3l4NvAEeywRcQsMguUQw"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mY3l4tvAEeywRcQsMguUQw" x="400" y="200"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_o69IIdvAEeywRcQsMguUQw" type="UseCase_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_o69II9vAEeywRcQsMguUQw" type="UseCase_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_o69IJNvAEeywRcQsMguUQw" type="UseCase_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_o69IJdvAEeywRcQsMguUQw" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_o69IJtvAEeywRcQsMguUQw" type="UseCase_ExtensionPointCompartment">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_o69IJ9vAEeywRcQsMguUQw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_o69IKNvAEeywRcQsMguUQw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_o69IKdvAEeywRcQsMguUQw"/>
+    </children>
+    <element xmi:type="uml:UseCase" href="SantosAsCegas%20-%20caso%20de%20uso%20Administrador.uml#_o69IINvAEeywRcQsMguUQw"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_o69IItvAEeywRcQsMguUQw" x="380" y="280"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_wBTfwdvAEeywRcQsMguUQw" type="UseCase_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_wBTfw9vAEeywRcQsMguUQw" type="UseCase_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_wBdQwNvAEeywRcQsMguUQw" type="UseCase_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_wBdQwdvAEeywRcQsMguUQw" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_wBdQwtvAEeywRcQsMguUQw" type="UseCase_ExtensionPointCompartment">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_wBdQw9vAEeywRcQsMguUQw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_wBdQxNvAEeywRcQsMguUQw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wBdQxdvAEeywRcQsMguUQw"/>
+    </children>
+    <element xmi:type="uml:UseCase" href="SantosAsCegas%20-%20caso%20de%20uso%20Administrador.uml#_wBTfwNvAEeywRcQsMguUQw"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wBTfwtvAEeywRcQsMguUQw" x="640" y="180"/>
+  </children>
+  <styles xmi:type="notation:StringValueStyle" xmi:id="_cN94IdvAEeywRcQsMguUQw" name="diagram_compatibility_version" stringValue="1.4.0"/>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_cN94ItvAEeywRcQsMguUQw"/>
+  <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_cN94I9vAEeywRcQsMguUQw" diagramKindId="org.eclipse.papyrus.uml.diagram.useCase">
+    <owner xmi:type="uml:Model" href="SantosAsCegas%20-%20caso%20de%20uso%20Administrador.uml#_cN5msNvAEeywRcQsMguUQw"/>
+  </styles>
+  <element xmi:type="uml:Model" href="SantosAsCegas%20-%20caso%20de%20uso%20Administrador.uml#_cN5msNvAEeywRcQsMguUQw"/>
+  <edges xmi:type="notation:Connector" xmi:id="_yX0EJdvAEeywRcQsMguUQw" type="Association_Edge" source="_dEpogdvAEeywRcQsMguUQw" target="_gTMoIdvAEeywRcQsMguUQw">
+    <children xmi:type="notation:DecorationNode" xmi:id="_yX0EKNvAEeywRcQsMguUQw" type="Association_NameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_yX0EKdvAEeywRcQsMguUQw" y="40"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_yX0EKtvAEeywRcQsMguUQw" type="Association_StereotypeLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_yX0EK9vAEeywRcQsMguUQw" y="-20"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_yX0EJtvAEeywRcQsMguUQw"/>
+    <element xmi:type="uml:Association" href="SantosAsCegas%20-%20caso%20de%20uso%20Administrador.uml#_yX0EINvAEeywRcQsMguUQw"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_yX0EJ9vAEeywRcQsMguUQw" points="[321, 160, -643984, -643984]$[404, 80, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_yX9OENvAEeywRcQsMguUQw" id="(1.0,0.594059405940594)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_yX9OEdvAEeywRcQsMguUQw" id="(0.02857142857142857,0.6666666666666666)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_0FyB1dvAEeywRcQsMguUQw" type="Association_Edge" source="_hw7KYdvAEeywRcQsMguUQw" target="_dEpogdvAEeywRcQsMguUQw">
+    <children xmi:type="notation:DecorationNode" xmi:id="_0FyB2NvAEeywRcQsMguUQw" type="Association_NameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_0FyB2dvAEeywRcQsMguUQw" y="40"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_0FyB2tvAEeywRcQsMguUQw" type="Association_StereotypeLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_0FyB29vAEeywRcQsMguUQw" y="-20"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_0FyB1tvAEeywRcQsMguUQw"/>
+    <element xmi:type="uml:Association" href="SantosAsCegas%20-%20caso%20de%20uso%20Administrador.uml#_0FyB0NvAEeywRcQsMguUQw"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_0FyB19vAEeywRcQsMguUQw" points="[400, 150, -643984, -643984]$[321, 180, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_0GE8wNvAEeywRcQsMguUQw" id="(0.0,0.5)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_0GE8wdvAEeywRcQsMguUQw" id="(1.0,0.594059405940594)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_1I-kNdvAEeywRcQsMguUQw" type="Association_Edge" source="_mY3l4dvAEeywRcQsMguUQw" target="_dEpogdvAEeywRcQsMguUQw">
+    <children xmi:type="notation:DecorationNode" xmi:id="_1I-kONvAEeywRcQsMguUQw" type="Association_NameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_1I-kOdvAEeywRcQsMguUQw" y="40"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_1I-kOtvAEeywRcQsMguUQw" type="Association_StereotypeLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_1I-kO9vAEeywRcQsMguUQw" y="-20"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_1I-kNtvAEeywRcQsMguUQw"/>
+    <element xmi:type="uml:Association" href="SantosAsCegas%20-%20caso%20de%20uso%20Administrador.uml#_1I-kMNvAEeywRcQsMguUQw"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_1I-kN9vAEeywRcQsMguUQw" points="[404, 220, -643984, -643984]$[321, 200, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_1JHuINvAEeywRcQsMguUQw" id="(0.02857142857142857,0.3333333333333333)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_1JHuIdvAEeywRcQsMguUQw" id="(1.0,0.594059405940594)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_2AQxhdvAEeywRcQsMguUQw" type="Association_Edge" source="_o69IIdvAEeywRcQsMguUQw" target="_dEpogdvAEeywRcQsMguUQw">
+    <children xmi:type="notation:DecorationNode" xmi:id="_2AQxiNvAEeywRcQsMguUQw" type="Association_NameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_2AQxidvAEeywRcQsMguUQw" y="40"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_2AQxitvAEeywRcQsMguUQw" type="Association_StereotypeLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_2AQxi9vAEeywRcQsMguUQw" y="-20"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_2AQxhtvAEeywRcQsMguUQw"/>
+    <element xmi:type="uml:Association" href="SantosAsCegas%20-%20caso%20de%20uso%20Administrador.uml#_2AQxgNvAEeywRcQsMguUQw"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_2AQxh9vAEeywRcQsMguUQw" points="[386, 300, -643984, -643984]$[321, 200, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_2AjscNvAEeywRcQsMguUQw" id="(0.02843601895734597,0.3333333333333333)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_2AjscdvAEeywRcQsMguUQw" id="(1.0,0.594059405940594)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_AnU20NvBEeywRcQsMguUQw" type="Include_Edge" source="_hw7KYdvAEeywRcQsMguUQw" target="_wBTfwdvAEeywRcQsMguUQw">
+    <children xmi:type="notation:DecorationNode" xmi:id="_AnU209vBEeywRcQsMguUQw" type="Include_KeywordLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_AnU21NvBEeywRcQsMguUQw" y="20"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_AnU21dvBEeywRcQsMguUQw" type="Include_StereotypeLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_AnU21tvBEeywRcQsMguUQw" y="-20"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_AnU20dvBEeywRcQsMguUQw"/>
+    <element xmi:type="uml:Include" href="SantosAsCegas%20-%20caso%20de%20uso%20Administrador.uml#_AnLs4NvBEeywRcQsMguUQw"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_AnU20tvBEeywRcQsMguUQw" points="[560, 154, -643984, -643984]$[660, 189, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Anen0NvBEeywRcQsMguUQw" id="(0.9937888198757764,0.5666666666666667)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Anen0dvBEeywRcQsMguUQw" id="(0.14285714285714285,0.15)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_BVYPodvBEeywRcQsMguUQw" type="Include_Edge" source="_mY3l4dvAEeywRcQsMguUQw" target="_wBTfwdvAEeywRcQsMguUQw">
+    <children xmi:type="notation:DecorationNode" xmi:id="_BVYPpNvBEeywRcQsMguUQw" type="Include_KeywordLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_BVYPpdvBEeywRcQsMguUQw" y="20"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_BVYPptvBEeywRcQsMguUQw" type="Include_StereotypeLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_BVYPp9vBEeywRcQsMguUQw" y="-20"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_BVYPotvBEeywRcQsMguUQw"/>
+    <element xmi:type="uml:Include" href="SantosAsCegas%20-%20caso%20de%20uso%20Administrador.uml#_BVYPoNvBEeywRcQsMguUQw"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BVYPo9vBEeywRcQsMguUQw" points="[540, 230, -643984, -643984]$[640, 210, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_BVrKkNvBEeywRcQsMguUQw" id="(1.0,0.5)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_BVrKkdvBEeywRcQsMguUQw" id="(0.0,0.5)"/>
+  </edges>
+</notation:Diagram>

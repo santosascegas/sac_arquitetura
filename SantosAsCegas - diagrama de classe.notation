@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_WbDp8NryEey6C9Ym-Eob-w" type="PapyrusUMLClassDiagram" name="Class Diagram" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_bEQpsNryEey6C9Ym-Eob-w" type="Class_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_bEjkoNryEey6C9Ym-Eob-w" type="Class_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_bEjkodryEey6C9Ym-Eob-w" type="Class_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_bEjkotryEey6C9Ym-Eob-w" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_bEjko9ryEey6C9Ym-Eob-w" type="Class_AttributeCompartment">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_pZrQENryEey6C9Ym-Eob-w" source="PapyrusCSSForceValue">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_pZrQEdryEey6C9Ym-Eob-w" key="collapsed" value="true"/>
+      </eAnnotations>
+      <children xmi:type="notation:Shape" xmi:id="_OLGJcNrzEey6C9Ym-Eob-w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_OK8_gNrzEey6C9Ym-Eob-w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_OLGJcdrzEey6C9Ym-Eob-w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_ccEfQNr0Eey6C9Ym-Eob-w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_cb7VUNr0Eey6C9Ym-Eob-w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_ccEfQdr0Eey6C9Ym-Eob-w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_h0G68Nr0Eey6C9Ym-Eob-w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_hz9xANr0Eey6C9Ym-Eob-w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_h0G68dr0Eey6C9Ym-Eob-w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_ltTaENr0Eey6C9Ym-Eob-w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_ltJpENr0Eey6C9Ym-Eob-w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_ltTaEdr0Eey6C9Ym-Eob-w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_q13PUdr0Eey6C9Ym-Eob-w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_q13PUNr0Eey6C9Ym-Eob-w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_q13PUtr0Eey6C9Ym-Eob-w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_zOKXANr0Eey6C9Ym-Eob-w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_zOAmANr0Eey6C9Ym-Eob-w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_zOKXAdr0Eey6C9Ym-Eob-w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_3xatgNr5Eey6C9Ym-Eob-w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_3xRjkNr5Eey6C9Ym-Eob-w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_3xatgdr5Eey6C9Ym-Eob-w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_9LAoYNr5Eey6C9Ym-Eob-w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_9K23YNr5Eey6C9Ym-Eob-w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_9LAoYdr5Eey6C9Ym-Eob-w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_SLy6kNr6Eey6C9Ym-Eob-w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_SLpJkNr6Eey6C9Ym-Eob-w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_SLy6kdr6Eey6C9Ym-Eob-w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_Wtcg0dr6Eey6C9Ym-Eob-w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_Wtcg0Nr6Eey6C9Ym-Eob-w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_Wtcg0tr6Eey6C9Ym-Eob-w"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_bEjkpNryEey6C9Ym-Eob-w"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_bEjkpdryEey6C9Ym-Eob-w"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_bEjkptryEey6C9Ym-Eob-w"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bEjkp9ryEey6C9Ym-Eob-w"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_bEjkqNryEey6C9Ym-Eob-w" type="Class_OperationCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_bEjkqdryEey6C9Ym-Eob-w"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_bEjkqtryEey6C9Ym-Eob-w"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_bEjkq9ryEey6C9Ym-Eob-w"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bEjkrNryEey6C9Ym-Eob-w"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_bEjkrdryEey6C9Ym-Eob-w" type="Class_NestedClassifierCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_bEjkrtryEey6C9Ym-Eob-w"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_bEjkr9ryEey6C9Ym-Eob-w"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_bEjksNryEey6C9Ym-Eob-w"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bEjksdryEey6C9Ym-Eob-w"/>
+    </children>
+    <element xmi:type="uml:Class" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_bEG4sNryEey6C9Ym-Eob-w"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bEQpsdryEey6C9Ym-Eob-w" x="440" y="100" width="201"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_Zt2Bodr4Eey6C9Ym-Eob-w" type="Class_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_Zt2Bo9r4Eey6C9Ym-Eob-w" type="Class_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_Zt2BpNr4Eey6C9Ym-Eob-w" type="Class_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_Zt2Bpdr4Eey6C9Ym-Eob-w" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_Zt2Bptr4Eey6C9Ym-Eob-w" type="Class_AttributeCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_OX0IEdr5Eey6C9Ym-Eob-w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_OX0IENr5Eey6C9Ym-Eob-w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_OX0IEtr5Eey6C9Ym-Eob-w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_UfyL4Nr5Eey6C9Ym-Eob-w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_Ufoa4Nr5Eey6C9Ym-Eob-w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_UfyL4dr5Eey6C9Ym-Eob-w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_YT7y8dr5Eey6C9Ym-Eob-w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_YT7y8Nr5Eey6C9Ym-Eob-w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_YT7y8tr5Eey6C9Ym-Eob-w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_inPOwNr5Eey6C9Ym-Eob-w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_inGE0Nr5Eey6C9Ym-Eob-w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_inPOwdr5Eey6C9Ym-Eob-w"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_Zt2Bp9r4Eey6C9Ym-Eob-w"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_Zt2BqNr4Eey6C9Ym-Eob-w"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_Zt2Bqdr4Eey6C9Ym-Eob-w"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Zt2Bqtr4Eey6C9Ym-Eob-w"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_Zt2Bq9r4Eey6C9Ym-Eob-w" type="Class_OperationCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_Zt2BrNr4Eey6C9Ym-Eob-w"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_Zt2Brdr4Eey6C9Ym-Eob-w"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_Zt2Brtr4Eey6C9Ym-Eob-w"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Zt2Br9r4Eey6C9Ym-Eob-w"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_Zt2BsNr4Eey6C9Ym-Eob-w" type="Class_NestedClassifierCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_Zt2Bsdr4Eey6C9Ym-Eob-w"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_Zt2Bstr4Eey6C9Ym-Eob-w"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_Zt2Bs9r4Eey6C9Ym-Eob-w"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Zt2BtNr4Eey6C9Ym-Eob-w"/>
+    </children>
+    <element xmi:type="uml:Class" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_Zt2BoNr4Eey6C9Ym-Eob-w"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Zt2Botr4Eey6C9Ym-Eob-w" x="320" y="420"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_b7NmMdr6Eey6C9Ym-Eob-w" type="Class_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_b7NmM9r6Eey6C9Ym-Eob-w" type="Class_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_b7NmNNr6Eey6C9Ym-Eob-w" type="Class_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_b7NmNdr6Eey6C9Ym-Eob-w" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_b7NmNtr6Eey6C9Ym-Eob-w" type="Class_AttributeCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_geBDAdr6Eey6C9Ym-Eob-w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_geBDANr6Eey6C9Ym-Eob-w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_geBDAtr6Eey6C9Ym-Eob-w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_kpyf4Nr6Eey6C9Ym-Eob-w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_kppV8Nr6Eey6C9Ym-Eob-w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_kpyf4dr6Eey6C9Ym-Eob-w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_n_-Ykdr6Eey6C9Ym-Eob-w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_n_-YkNr6Eey6C9Ym-Eob-w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_n_-Yktr6Eey6C9Ym-Eob-w"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_b7NmN9r6Eey6C9Ym-Eob-w"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_b7NmONr6Eey6C9Ym-Eob-w"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_b7NmOdr6Eey6C9Ym-Eob-w"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_b7NmOtr6Eey6C9Ym-Eob-w"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_b7NmO9r6Eey6C9Ym-Eob-w" type="Class_OperationCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_b7NmPNr6Eey6C9Ym-Eob-w"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_b7NmPdr6Eey6C9Ym-Eob-w"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_b7NmPtr6Eey6C9Ym-Eob-w"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_b7NmP9r6Eey6C9Ym-Eob-w"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_b7NmQNr6Eey6C9Ym-Eob-w" type="Class_NestedClassifierCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_b7NmQdr6Eey6C9Ym-Eob-w"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_b7NmQtr6Eey6C9Ym-Eob-w"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_b7NmQ9r6Eey6C9Ym-Eob-w"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_b7NmRNr6Eey6C9Ym-Eob-w"/>
+    </children>
+    <element xmi:type="uml:Class" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_b7NmMNr6Eey6C9Ym-Eob-w"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_b7NmMtr6Eey6C9Ym-Eob-w" x="520" y="420"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_tJ-YQdr6Eey6C9Ym-Eob-w" type="Class_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_tJ-YQ9r6Eey6C9Ym-Eob-w" type="Class_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_tJ-YRNr6Eey6C9Ym-Eob-w" type="Class_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_tJ-YRdr6Eey6C9Ym-Eob-w" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_tJ-YRtr6Eey6C9Ym-Eob-w" type="Class_AttributeCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_zpMecNr6Eey6C9Ym-Eob-w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_zpDUgNr6Eey6C9Ym-Eob-w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_zpMecdr6Eey6C9Ym-Eob-w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_3Dv5wNr6Eey6C9Ym-Eob-w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_3DmIwNr6Eey6C9Ym-Eob-w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_3Dv5wdr6Eey6C9Ym-Eob-w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_VGt-INr7Eey6C9Ym-Eob-w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_VGk0MNr7Eey6C9Ym-Eob-w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_VGt-Idr7Eey6C9Ym-Eob-w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_aSzBcNr7Eey6C9Ym-Eob-w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_aSpQcNr7Eey6C9Ym-Eob-w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_aSzBcdr7Eey6C9Ym-Eob-w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_m4_F4dr7Eey6C9Ym-Eob-w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_m4_F4Nr7Eey6C9Ym-Eob-w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_m4_F4tr7Eey6C9Ym-Eob-w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_qeplANr7Eey6C9Ym-Eob-w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_qef0ANr7Eey6C9Ym-Eob-w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_qeplAdr7Eey6C9Ym-Eob-w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_zXcxsNr7Eey6C9Ym-Eob-w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_zXTAsNr7Eey6C9Ym-Eob-w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_zXcxsdr7Eey6C9Ym-Eob-w"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_tJ-YR9r6Eey6C9Ym-Eob-w"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_tJ-YSNr6Eey6C9Ym-Eob-w"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_tJ-YSdr6Eey6C9Ym-Eob-w"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tJ-YStr6Eey6C9Ym-Eob-w"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_tJ-YS9r6Eey6C9Ym-Eob-w" type="Class_OperationCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_tJ-YTNr6Eey6C9Ym-Eob-w"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_tJ-YTdr6Eey6C9Ym-Eob-w"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_tJ-YTtr6Eey6C9Ym-Eob-w"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tJ-YT9r6Eey6C9Ym-Eob-w"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_tJ-YUNr6Eey6C9Ym-Eob-w" type="Class_NestedClassifierCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_tJ-YUdr6Eey6C9Ym-Eob-w"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_tJ-YUtr6Eey6C9Ym-Eob-w"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_tJ-YU9r6Eey6C9Ym-Eob-w"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tJ-YVNr6Eey6C9Ym-Eob-w"/>
+    </children>
+    <element xmi:type="uml:Class" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_tJ-YQNr6Eey6C9Ym-Eob-w"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tJ-YQtr6Eey6C9Ym-Eob-w" x="720" y="380"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_7W8X0dr7Eey6C9Ym-Eob-w" type="Class_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_7XFhwNr7Eey6C9Ym-Eob-w" type="Class_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_7XFhwdr7Eey6C9Ym-Eob-w" type="Class_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_7XFhwtr7Eey6C9Ym-Eob-w" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_7XFhw9r7Eey6C9Ym-Eob-w" type="Class_AttributeCompartment">
+      <children xmi:type="notation:Shape" xmi:id="__P0t4dr7Eey6C9Ym-Eob-w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#__P0t4Nr7Eey6C9Ym-Eob-w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="__P0t4tr7Eey6C9Ym-Eob-w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_EYfQ0Nr8Eey6C9Ym-Eob-w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_EYWG4Nr8Eey6C9Ym-Eob-w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_EYfQ0dr8Eey6C9Ym-Eob-w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_HMXGoNr8Eey6C9Ym-Eob-w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_HMNVoNr8Eey6C9Ym-Eob-w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_HMXGodr8Eey6C9Ym-Eob-w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_NrOAcNr8Eey6C9Ym-Eob-w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_NrEPcNr8Eey6C9Ym-Eob-w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_NrOAcdr8Eey6C9Ym-Eob-w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_UGcXcNr8Eey6C9Ym-Eob-w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_UGSmcNr8Eey6C9Ym-Eob-w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_UGcXcdr8Eey6C9Ym-Eob-w"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_7XFhxNr7Eey6C9Ym-Eob-w"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_7XFhxdr7Eey6C9Ym-Eob-w"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_7XFhxtr7Eey6C9Ym-Eob-w"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7XFhx9r7Eey6C9Ym-Eob-w"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_7XFhyNr7Eey6C9Ym-Eob-w" type="Class_OperationCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_7XFhydr7Eey6C9Ym-Eob-w"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_7XFhytr7Eey6C9Ym-Eob-w"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_7XFhy9r7Eey6C9Ym-Eob-w"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7XFhzNr7Eey6C9Ym-Eob-w"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_7XFhzdr7Eey6C9Ym-Eob-w" type="Class_NestedClassifierCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_7XFhztr7Eey6C9Ym-Eob-w"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_7XFhz9r7Eey6C9Ym-Eob-w"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_7XFh0Nr7Eey6C9Ym-Eob-w"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7XFh0dr7Eey6C9Ym-Eob-w"/>
+    </children>
+    <element xmi:type="uml:Class" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_7W8X0Nr7Eey6C9Ym-Eob-w"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7W8X0tr7Eey6C9Ym-Eob-w" x="240" y="120"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_fRiW4dr8Eey6C9Ym-Eob-w" type="Class_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_fRiW49r8Eey6C9Ym-Eob-w" type="Class_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_fRiW5Nr8Eey6C9Ym-Eob-w" type="Class_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_fRiW5dr8Eey6C9Ym-Eob-w" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_fRiW5tr8Eey6C9Ym-Eob-w" type="Class_AttributeCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_1bqPsNr8Eey6C9Ym-Eob-w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_1bhFwNr8Eey6C9Ym-Eob-w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_1bqPsdr8Eey6C9Ym-Eob-w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_8GcssNr8Eey6C9Ym-Eob-w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_8GJxwNr8Eey6C9Ym-Eob-w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_8Gcssdr8Eey6C9Ym-Eob-w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_AnufgNr9Eey6C9Ym-Eob-w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_AnkugNr9Eey6C9Ym-Eob-w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_Anufgdr9Eey6C9Ym-Eob-w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_EUBLENr9Eey6C9Ym-Eob-w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_ET4BINr9Eey6C9Ym-Eob-w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_EUBLEdr9Eey6C9Ym-Eob-w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_JWltENr9Eey6C9Ym-Eob-w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_JWb8ENr9Eey6C9Ym-Eob-w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_JWltEdr9Eey6C9Ym-Eob-w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_PYY3cNr9Eey6C9Ym-Eob-w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_PYPGcNr9Eey6C9Ym-Eob-w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_PYY3cdr9Eey6C9Ym-Eob-w"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_fRiW59r8Eey6C9Ym-Eob-w"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_fRiW6Nr8Eey6C9Ym-Eob-w"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_fRiW6dr8Eey6C9Ym-Eob-w"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fRiW6tr8Eey6C9Ym-Eob-w"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_fRiW69r8Eey6C9Ym-Eob-w" type="Class_OperationCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_fRiW7Nr8Eey6C9Ym-Eob-w"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_fRiW7dr8Eey6C9Ym-Eob-w"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_fRiW7tr8Eey6C9Ym-Eob-w"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fRiW79r8Eey6C9Ym-Eob-w"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_fRiW8Nr8Eey6C9Ym-Eob-w" type="Class_NestedClassifierCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_fRiW8dr8Eey6C9Ym-Eob-w"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_fRiW8tr8Eey6C9Ym-Eob-w"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_fRiW89r8Eey6C9Ym-Eob-w"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fRiW9Nr8Eey6C9Ym-Eob-w"/>
+    </children>
+    <element xmi:type="uml:Class" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_fRiW4Nr8Eey6C9Ym-Eob-w"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fRiW4tr8Eey6C9Ym-Eob-w" y="260"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_iG5acdr8Eey6C9Ym-Eob-w" type="Enumeration_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_iG5ac9r8Eey6C9Ym-Eob-w" type="Enumeration_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_iG5adNr8Eey6C9Ym-Eob-w" type="Enumeration_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_iG5addr8Eey6C9Ym-Eob-w" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_iG5adtr8Eey6C9Ym-Eob-w" type="Enumeration_LiteralCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_oY15oNr8Eey6C9Ym-Eob-w" type="EnumerationLiteral_LiteralLabel">
+        <element xmi:type="uml:EnumerationLiteral" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_oYsvsNr8Eey6C9Ym-Eob-w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_oY15odr8Eey6C9Ym-Eob-w"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_v32B0Nr8Eey6C9Ym-Eob-w" type="EnumerationLiteral_LiteralLabel">
+        <element xmi:type="uml:EnumerationLiteral" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_v3sQ0Nr8Eey6C9Ym-Eob-w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_v32B0dr8Eey6C9Ym-Eob-w"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_iG5ad9r8Eey6C9Ym-Eob-w"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_iG5aeNr8Eey6C9Ym-Eob-w"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_iG5aedr8Eey6C9Ym-Eob-w"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iG5aetr8Eey6C9Ym-Eob-w"/>
+    </children>
+    <element xmi:type="uml:Enumeration" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_iG5acNr8Eey6C9Ym-Eob-w"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iG5actr8Eey6C9Ym-Eob-w" x="40" y="100"/>
+  </children>
+  <styles xmi:type="notation:StringValueStyle" xmi:id="_WbDp8dryEey6C9Ym-Eob-w" name="diagram_compatibility_version" stringValue="1.4.0"/>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_WbDp8tryEey6C9Ym-Eob-w"/>
+  <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_WbDp89ryEey6C9Ym-Eob-w" diagramKindId="org.eclipse.papyrus.uml.diagram.class">
+    <owner xmi:type="uml:Model" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_WZ3XINryEey6C9Ym-Eob-w"/>
+  </styles>
+  <element xmi:type="uml:Model" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_WZ3XINryEey6C9Ym-Eob-w"/>
+  <edges xmi:type="notation:Connector" xmi:id="_1uBSYNr5Eey6C9Ym-Eob-w" type="Dependency_Edge" source="_Zt2Bodr4Eey6C9Ym-Eob-w" target="_bEQpsNryEey6C9Ym-Eob-w">
+    <children xmi:type="notation:DecorationNode" xmi:id="_1uBSY9r5Eey6C9Ym-Eob-w" type="Dependency_NameLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_ZxqfwNr6Eey6C9Ym-Eob-w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_1uBSZNr5Eey6C9Ym-Eob-w" y="39"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_1uBSZdr5Eey6C9Ym-Eob-w" type="Dependency_StereotypeLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_Zxqfwdr6Eey6C9Ym-Eob-w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_1uBSZtr5Eey6C9Ym-Eob-w" x="-1" y="59"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_1uBSYdr5Eey6C9Ym-Eob-w"/>
+    <element xmi:type="uml:Dependency" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_1t3hYNr5Eey6C9Ym-Eob-w"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_1uBSYtr5Eey6C9Ym-Eob-w" points="[420, 360, -643984, -643984]$[500, 276, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_1unIQNr5Eey6C9Ym-Eob-w" id="(0.5298013245033113,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_1unIQdr5Eey6C9Ym-Eob-w" id="(0.29850746268656714,1.0)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_fu89kdr6Eey6C9Ym-Eob-w" type="Dependency_Edge" source="_b7NmMdr6Eey6C9Ym-Eob-w" target="_bEQpsNryEey6C9Ym-Eob-w">
+    <children xmi:type="notation:DecorationNode" xmi:id="_fu89lNr6Eey6C9Ym-Eob-w" type="Dependency_NameLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_U6YgYNr9Eey6C9Ym-Eob-w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_fu89ldr6Eey6C9Ym-Eob-w" x="-1" y="38"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_fu89ltr6Eey6C9Ym-Eob-w" type="Dependency_StereotypeLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_U6iRYNr9Eey6C9Ym-Eob-w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_fu89l9r6Eey6C9Ym-Eob-w" x="-1" y="58"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_fu89ktr6Eey6C9Ym-Eob-w"/>
+    <element xmi:type="uml:Dependency" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_fu89kNr6Eey6C9Ym-Eob-w"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_fu89k9r6Eey6C9Ym-Eob-w" points="[640, 420, -643984, -643984]$[580, 340, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fvGHgNr6Eey6C9Ym-Eob-w" id="(0.37037037037037035,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fvGHgdr6Eey6C9Ym-Eob-w" id="(0.6965174129353234,1.0)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_yv10kdr6Eey6C9Ym-Eob-w" type="Dependency_Edge" source="_b7NmMdr6Eey6C9Ym-Eob-w" target="_tJ-YQdr6Eey6C9Ym-Eob-w">
+    <children xmi:type="notation:DecorationNode" xmi:id="_yv10lNr6Eey6C9Ym-Eob-w" type="Dependency_NameLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_U6rbUNr9Eey6C9Ym-Eob-w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_yv10ldr6Eey6C9Ym-Eob-w" x="1" y="39"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_yv10ltr6Eey6C9Ym-Eob-w" type="Dependency_StereotypeLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_U61MUNr9Eey6C9Ym-Eob-w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_yv10l9r6Eey6C9Ym-Eob-w" x="1" y="59"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_yv10ktr6Eey6C9Ym-Eob-w"/>
+    <element xmi:type="uml:Dependency" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_yv10kNr6Eey6C9Ym-Eob-w"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_yv10k9r6Eey6C9Ym-Eob-w" points="[762, 460, -643984, -643984]$[860, 460, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ywIvgNr6Eey6C9Ym-Eob-w" id="(1.0,0.3125)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ywIvgdr6Eey6C9Ym-Eob-w" id="(0.0,0.4166666666666667)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_0pJ0sdr8Eey6C9Ym-Eob-w" type="Dependency_Edge" source="_iG5acdr8Eey6C9Ym-Eob-w" target="_fRiW4dr8Eey6C9Ym-Eob-w">
+    <children xmi:type="notation:DecorationNode" xmi:id="_0pJ0tNr8Eey6C9Ym-Eob-w" type="Dependency_NameLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_Tz-5ANr9Eey6C9Ym-Eob-w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_0pJ0tdr8Eey6C9Ym-Eob-w" x="-1" y="38"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_0pJ0ttr8Eey6C9Ym-Eob-w" type="Dependency_StereotypeLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_T0IqANr9Eey6C9Ym-Eob-w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_0pJ0t9r8Eey6C9Ym-Eob-w" x="-1" y="57"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_0pJ0str8Eey6C9Ym-Eob-w"/>
+    <element xmi:type="uml:Dependency" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_0pJ0sNr8Eey6C9Ym-Eob-w"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_0pJ0s9r8Eey6C9Ym-Eob-w" points="[60, 160, -643984, -643984]$[60, 220, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_0pdWsNr8Eey6C9Ym-Eob-w" id="(0.4,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_0pdWsdr8Eey6C9Ym-Eob-w" id="(0.40609137055837563,0.0)"/>
+  </edges>
+</notation:Diagram>
