@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_WZ3XINryEey6C9Ym-Eob-w" name="SantosAsCegas - diagrama de classe">
+  <packageImport xmi:type="uml:PackageImport" xmi:id="_WdItkNryEey6C9Ym-Eob-w">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+  </packageImport>
+  <packagedElement xmi:type="uml:Class" xmi:id="_bEG4sNryEey6C9Ym-Eob-w" name="Post">
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_OK8_gNrzEey6C9Ym-Eob-w" name="id" visibility="private">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/EcorePrimitiveTypes.library.uml#ELong"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_cb7VUNr0Eey6C9Ym-Eob-w" name="name" visibility="private">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_hz9xANr0Eey6C9Ym-Eob-w" name="phone" visibility="private">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_ltJpENr0Eey6C9Ym-Eob-w" name="created_art" visibility="private">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/EcorePrimitiveTypes.library.uml#EDate"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_q13PUNr0Eey6C9Ym-Eob-w" name="IsActive" visibility="private">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_zOAmANr0Eey6C9Ym-Eob-w" name="message" visibility="private">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_3xRjkNr5Eey6C9Ym-Eob-w" name="image" visibility="private" type="_Zt2BoNr4Eey6C9Ym-Eob-w"/>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_9K23YNr5Eey6C9Ym-Eob-w" name="audioDescription" visibility="private">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_SLpJkNr6Eey6C9Ym-Eob-w" name="questions" visibility="private">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_Wtcg0Nr6Eey6C9Ym-Eob-w" name="audio" visibility="private" type="_Zt2BoNr4Eey6C9Ym-Eob-w"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_Zt2BoNr4Eey6C9Ym-Eob-w" name="FileStorage">
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_OX0IENr5Eey6C9Ym-Eob-w" name="id" visibility="private">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/EcorePrimitiveTypes.library.uml#ELong"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_Ufoa4Nr5Eey6C9Ym-Eob-w" name="filename" visibility="private">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_YT7y8Nr5Eey6C9Ym-Eob-w" name="path" visibility="private">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_inGE0Nr5Eey6C9Ym-Eob-w" name="created_art" visibility="private">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/EcorePrimitiveTypes.library.uml#EDate"/>
+    </ownedAttribute>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Dependency" xmi:id="_1t3hYNr5Eey6C9Ym-Eob-w" client="_Zt2BoNr4Eey6C9Ym-Eob-w" supplier="_bEG4sNryEey6C9Ym-Eob-w"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_b7NmMNr6Eey6C9Ym-Eob-w" name="Agenda">
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_geBDANr6Eey6C9Ym-Eob-w" name="id" visibility="private">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/EcorePrimitiveTypes.library.uml#ELong"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_kppV8Nr6Eey6C9Ym-Eob-w" name="date" visibility="private">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/EcorePrimitiveTypes.library.uml#EDate"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_n_-YkNr6Eey6C9Ym-Eob-w" name="isAvailable" visibility="private">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+    </ownedAttribute>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Dependency" xmi:id="_fu89kNr6Eey6C9Ym-Eob-w" client="_b7NmMNr6Eey6C9Ym-Eob-w" supplier="_bEG4sNryEey6C9Ym-Eob-w"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_tJ-YQNr6Eey6C9Ym-Eob-w" name="Appointment">
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_zpDUgNr6Eey6C9Ym-Eob-w" name="id" visibility="private">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/EcorePrimitiveTypes.library.uml#ELong"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_3DmIwNr6Eey6C9Ym-Eob-w" name="name" visibility="private">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_VGk0MNr7Eey6C9Ym-Eob-w" name="email" visibility="private">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_aSpQcNr7Eey6C9Ym-Eob-w" name="doctorsNote" visibility="private">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_m4_F4Nr7Eey6C9Ym-Eob-w" name="phone" visibility="private">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_qef0ANr7Eey6C9Ym-Eob-w" name="idDocument" visibility="private">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_zXTAsNr7Eey6C9Ym-Eob-w" name="agenda" visibility="private" type="_b7NmMNr6Eey6C9Ym-Eob-w"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Dependency" xmi:id="_yv10kNr6Eey6C9Ym-Eob-w" client="_b7NmMNr6Eey6C9Ym-Eob-w" supplier="_tJ-YQNr6Eey6C9Ym-Eob-w"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_7W8X0Nr7Eey6C9Ym-Eob-w" name="Contact">
+    <ownedAttribute xmi:type="uml:Property" xmi:id="__P0t4Nr7Eey6C9Ym-Eob-w" name="name" visibility="private">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_EYWG4Nr8Eey6C9Ym-Eob-w" name="email" visibility="private">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_HMNVoNr8Eey6C9Ym-Eob-w" name="phone" visibility="private">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_NrEPcNr8Eey6C9Ym-Eob-w" name="subject" visibility="private">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_UGSmcNr8Eey6C9Ym-Eob-w" name="message" visibility="private">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    </ownedAttribute>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_fRiW4Nr8Eey6C9Ym-Eob-w" name="AppUser">
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_1bhFwNr8Eey6C9Ym-Eob-w" name="id" visibility="private">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/EcorePrimitiveTypes.library.uml#ELong"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_8GJxwNr8Eey6C9Ym-Eob-w" name="username" visibility="private">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_AnkugNr9Eey6C9Ym-Eob-w" name="email" visibility="private">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_ET4BINr9Eey6C9Ym-Eob-w" name="password" visibility="private">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_JWb8ENr9Eey6C9Ym-Eob-w" name="appUserRole" visibility="private" type="_iG5acNr8Eey6C9Ym-Eob-w"/>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_PYPGcNr9Eey6C9Ym-Eob-w" name="isEnable" visibility="private">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+    </ownedAttribute>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Enumeration" xmi:id="_iG5acNr8Eey6C9Ym-Eob-w" name="AppUserRole">
+    <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_oYsvsNr8Eey6C9Ym-Eob-w" name="USER" visibility="private"/>
+    <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_v3sQ0Nr8Eey6C9Ym-Eob-w" name="ADMIN" visibility="private"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Dependency" xmi:id="_0pJ0sNr8Eey6C9Ym-Eob-w" client="_iG5acNr8Eey6C9Ym-Eob-w" supplier="_fRiW4Nr8Eey6C9Ym-Eob-w"/>
+</uml:Model>
