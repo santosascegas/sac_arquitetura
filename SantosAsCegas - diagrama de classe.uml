@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_WZ3XINryEey6C9Ym-Eob-w" name="SantosAsCegas - diagrama de classe">
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_WZ3XINryEey6C9Ym-Eob-w" name="SantosAsCegas - diagrama de classe">
   <packageImport xmi:type="uml:PackageImport" xmi:id="_WdItkNryEey6C9Ym-Eob-w">
     <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
   </packageImport>
@@ -23,13 +23,16 @@
       <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
     </ownedAttribute>
     <ownedAttribute xmi:type="uml:Property" xmi:id="_3xRjkNr5Eey6C9Ym-Eob-w" name="image" visibility="private" type="_Zt2BoNr4Eey6C9Ym-Eob-w"/>
-    <ownedAttribute xmi:type="uml:Property" xmi:id="_9K23YNr5Eey6C9Ym-Eob-w" name="audioDescription" visibility="private">
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_9K23YNr5Eey6C9Ym-Eob-w" name="imageDescription" visibility="private">
       <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
     </ownedAttribute>
-    <ownedAttribute xmi:type="uml:Property" xmi:id="_SLpJkNr6Eey6C9Ym-Eob-w" name="questions" visibility="private">
-      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_SLpJkNr6Eey6C9Ym-Eob-w" name="question_1" visibility="private">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
     </ownedAttribute>
     <ownedAttribute xmi:type="uml:Property" xmi:id="_Wtcg0Nr6Eey6C9Ym-Eob-w" name="audio" visibility="private" type="_Zt2BoNr4Eey6C9Ym-Eob-w"/>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_5l3gYOkgEeyBifoS7BM1_Q" name="question_2" visibility="private">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+    </ownedAttribute>
   </packagedElement>
   <packagedElement xmi:type="uml:Class" xmi:id="_Zt2BoNr4Eey6C9Ym-Eob-w" name="FileStorage">
     <ownedAttribute xmi:type="uml:Property" xmi:id="_OX0IENr5Eey6C9Ym-Eob-w" name="id" visibility="private">
@@ -44,8 +47,11 @@
     <ownedAttribute xmi:type="uml:Property" xmi:id="_inGE0Nr5Eey6C9Ym-Eob-w" name="created_art" visibility="private">
       <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/EcorePrimitiveTypes.library.uml#EDate"/>
     </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_GrQhA-X6Eeyml9wYgykdig" name="post" type="_bEG4sNryEey6C9Ym-Eob-w" aggregation="composite" association="_GrQhAOX6Eeyml9wYgykdig">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_GrQhBOX6Eeyml9wYgykdig"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_GrQhBeX6Eeyml9wYgykdig" value="*"/>
+    </ownedAttribute>
   </packagedElement>
-  <packagedElement xmi:type="uml:Dependency" xmi:id="_1t3hYNr5Eey6C9Ym-Eob-w" client="_Zt2BoNr4Eey6C9Ym-Eob-w" supplier="_bEG4sNryEey6C9Ym-Eob-w"/>
   <packagedElement xmi:type="uml:Class" xmi:id="_b7NmMNr6Eey6C9Ym-Eob-w" name="Agenda">
     <ownedAttribute xmi:type="uml:Property" xmi:id="_geBDANr6Eey6C9Ym-Eob-w" name="id" visibility="private">
       <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/EcorePrimitiveTypes.library.uml#ELong"/>
@@ -56,8 +62,11 @@
     <ownedAttribute xmi:type="uml:Property" xmi:id="_n_-YkNr6Eey6C9Ym-Eob-w" name="isAvailable" visibility="private">
       <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
     </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_5gH8c-X5Eeyml9wYgykdig" name="appointment" type="_tJ-YQNr6Eey6C9Ym-Eob-w" aggregation="composite" association="_5gH8cOX5Eeyml9wYgykdig">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_5gH8dOX5Eeyml9wYgykdig"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_5gH8deX5Eeyml9wYgykdig" value="*"/>
+    </ownedAttribute>
   </packagedElement>
-  <packagedElement xmi:type="uml:Dependency" xmi:id="_fu89kNr6Eey6C9Ym-Eob-w" client="_b7NmMNr6Eey6C9Ym-Eob-w" supplier="_bEG4sNryEey6C9Ym-Eob-w"/>
   <packagedElement xmi:type="uml:Class" xmi:id="_tJ-YQNr6Eey6C9Ym-Eob-w" name="Appointment">
     <ownedAttribute xmi:type="uml:Property" xmi:id="_zpDUgNr6Eey6C9Ym-Eob-w" name="id" visibility="private">
       <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/EcorePrimitiveTypes.library.uml#ELong"/>
@@ -79,7 +88,6 @@
     </ownedAttribute>
     <ownedAttribute xmi:type="uml:Property" xmi:id="_zXTAsNr7Eey6C9Ym-Eob-w" name="agenda" visibility="private" type="_b7NmMNr6Eey6C9Ym-Eob-w"/>
   </packagedElement>
-  <packagedElement xmi:type="uml:Dependency" xmi:id="_yv10kNr6Eey6C9Ym-Eob-w" client="_b7NmMNr6Eey6C9Ym-Eob-w" supplier="_tJ-YQNr6Eey6C9Ym-Eob-w"/>
   <packagedElement xmi:type="uml:Class" xmi:id="_7W8X0Nr7Eey6C9Ym-Eob-w" name="Contact">
     <ownedAttribute xmi:type="uml:Property" xmi:id="__P0t4Nr7Eey6C9Ym-Eob-w" name="name" visibility="private">
       <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
@@ -111,7 +119,7 @@
       <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
     </ownedAttribute>
     <ownedAttribute xmi:type="uml:Property" xmi:id="_JWb8ENr9Eey6C9Ym-Eob-w" name="appUserRole" visibility="private" type="_iG5acNr8Eey6C9Ym-Eob-w"/>
-    <ownedAttribute xmi:type="uml:Property" xmi:id="_PYPGcNr9Eey6C9Ym-Eob-w" name="isEnable" visibility="private">
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_PYPGcNr9Eey6C9Ym-Eob-w" name="isEnabled" visibility="private">
       <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
     </ownedAttribute>
   </packagedElement>
@@ -119,5 +127,20 @@
     <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_oYsvsNr8Eey6C9Ym-Eob-w" name="USER" visibility="private"/>
     <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_v3sQ0Nr8Eey6C9Ym-Eob-w" name="ADMIN" visibility="private"/>
   </packagedElement>
-  <packagedElement xmi:type="uml:Dependency" xmi:id="_0pJ0sNr8Eey6C9Ym-Eob-w" client="_iG5acNr8Eey6C9Ym-Eob-w" supplier="_fRiW4Nr8Eey6C9Ym-Eob-w"/>
+  <packagedElement xmi:type="uml:Dependency" xmi:id="_s-N7EOX5Eeyml9wYgykdig" client="_fRiW4Nr8Eey6C9Ym-Eob-w" supplier="_iG5acNr8Eey6C9Ym-Eob-w"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_5gH8cOX5Eeyml9wYgykdig" memberEnd="_5gH8c-X5Eeyml9wYgykdig _5gH8duX5Eeyml9wYgykdig">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_5gH8ceX5Eeyml9wYgykdig" source="org.eclipse.papyrus">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_5gH8cuX5Eeyml9wYgykdig" key="nature" value="UML_Nature"/>
+    </eAnnotations>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_5gH8duX5Eeyml9wYgykdig" name="agenda" type="_b7NmMNr6Eey6C9Ym-Eob-w" association="_5gH8cOX5Eeyml9wYgykdig"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_GrQhAOX6Eeyml9wYgykdig" memberEnd="_GrQhA-X6Eeyml9wYgykdig _GrQhBuX6Eeyml9wYgykdig">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_GrQhAeX6Eeyml9wYgykdig" source="org.eclipse.papyrus">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_GrQhAuX6Eeyml9wYgykdig" key="nature" value="UML_Nature"/>
+    </eAnnotations>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_GrQhBuX6Eeyml9wYgykdig" name="filestorage" type="_Zt2BoNr4Eey6C9Ym-Eob-w" association="_GrQhAOX6Eeyml9wYgykdig">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_Sv_eMOX6Eeyml9wYgykdig"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_Sv_eMeX6Eeyml9wYgykdig" value="*"/>
+    </ownedEnd>
+  </packagedElement>
 </uml:Model>

@@ -49,6 +49,10 @@
         <element xmi:type="uml:Property" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_Wtcg0Nr6Eey6C9Ym-Eob-w"/>
         <layoutConstraint xmi:type="notation:Location" xmi:id="_Wtcg0tr6Eey6C9Ym-Eob-w"/>
       </children>
+      <children xmi:type="notation:Shape" xmi:id="_5mJNMOkgEeyBifoS7BM1_Q" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_5l3gYOkgEeyBifoS7BM1_Q"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_5mJNMekgEeyBifoS7BM1_Q"/>
+      </children>
       <styles xmi:type="notation:TitleStyle" xmi:id="_bEjkpNryEey6C9Ym-Eob-w"/>
       <styles xmi:type="notation:SortingStyle" xmi:id="_bEjkpdryEey6C9Ym-Eob-w"/>
       <styles xmi:type="notation:FilteringStyle" xmi:id="_bEjkptryEey6C9Ym-Eob-w"/>
@@ -67,7 +71,7 @@
       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bEjksdryEey6C9Ym-Eob-w"/>
     </children>
     <element xmi:type="uml:Class" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_bEG4sNryEey6C9Ym-Eob-w"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bEQpsdryEey6C9Ym-Eob-w" x="440" y="100" width="201"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bEQpsdryEey6C9Ym-Eob-w" x="440" y="320" width="201"/>
   </children>
   <children xmi:type="notation:Shape" xmi:id="_Zt2Bodr4Eey6C9Ym-Eob-w" type="Class_Shape">
     <children xmi:type="notation:DecorationNode" xmi:id="_Zt2Bo9r4Eey6C9Ym-Eob-w" type="Class_NameLabel"/>
@@ -109,7 +113,7 @@
       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Zt2BtNr4Eey6C9Ym-Eob-w"/>
     </children>
     <element xmi:type="uml:Class" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_Zt2BoNr4Eey6C9Ym-Eob-w"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Zt2Botr4Eey6C9Ym-Eob-w" x="320" y="420"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Zt2Botr4Eey6C9Ym-Eob-w" x="460" y="100"/>
   </children>
   <children xmi:type="notation:Shape" xmi:id="_b7NmMdr6Eey6C9Ym-Eob-w" type="Class_Shape">
     <children xmi:type="notation:DecorationNode" xmi:id="_b7NmM9r6Eey6C9Ym-Eob-w" type="Class_NameLabel"/>
@@ -147,7 +151,7 @@
       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_b7NmRNr6Eey6C9Ym-Eob-w"/>
     </children>
     <element xmi:type="uml:Class" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_b7NmMNr6Eey6C9Ym-Eob-w"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_b7NmMtr6Eey6C9Ym-Eob-w" x="520" y="420"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_b7NmMtr6Eey6C9Ym-Eob-w" x="720" y="100"/>
   </children>
   <children xmi:type="notation:Shape" xmi:id="_tJ-YQdr6Eey6C9Ym-Eob-w" type="Class_Shape">
     <children xmi:type="notation:DecorationNode" xmi:id="_tJ-YQ9r6Eey6C9Ym-Eob-w" type="Class_NameLabel"/>
@@ -201,7 +205,7 @@
       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tJ-YVNr6Eey6C9Ym-Eob-w"/>
     </children>
     <element xmi:type="uml:Class" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_tJ-YQNr6Eey6C9Ym-Eob-w"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tJ-YQtr6Eey6C9Ym-Eob-w" x="720" y="380"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tJ-YQtr6Eey6C9Ym-Eob-w" x="720" y="320"/>
   </children>
   <children xmi:type="notation:Shape" xmi:id="_7W8X0dr7Eey6C9Ym-Eob-w" type="Class_Shape">
     <children xmi:type="notation:DecorationNode" xmi:id="_7XFhwNr7Eey6C9Ym-Eob-w" type="Class_NameLabel"/>
@@ -247,7 +251,7 @@
       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7XFh0dr7Eey6C9Ym-Eob-w"/>
     </children>
     <element xmi:type="uml:Class" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_7W8X0Nr7Eey6C9Ym-Eob-w"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7W8X0tr7Eey6C9Ym-Eob-w" x="240" y="120"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7W8X0tr7Eey6C9Ym-Eob-w" x="240" y="100"/>
   </children>
   <children xmi:type="notation:Shape" xmi:id="_fRiW4dr8Eey6C9Ym-Eob-w" type="Class_Shape">
     <children xmi:type="notation:DecorationNode" xmi:id="_fRiW49r8Eey6C9Ym-Eob-w" type="Class_NameLabel"/>
@@ -327,64 +331,73 @@
     <owner xmi:type="uml:Model" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_WZ3XINryEey6C9Ym-Eob-w"/>
   </styles>
   <element xmi:type="uml:Model" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_WZ3XINryEey6C9Ym-Eob-w"/>
-  <edges xmi:type="notation:Connector" xmi:id="_1uBSYNr5Eey6C9Ym-Eob-w" type="Dependency_Edge" source="_Zt2Bodr4Eey6C9Ym-Eob-w" target="_bEQpsNryEey6C9Ym-Eob-w">
-    <children xmi:type="notation:DecorationNode" xmi:id="_1uBSY9r5Eey6C9Ym-Eob-w" type="Dependency_NameLabel">
-      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_ZxqfwNr6Eey6C9Ym-Eob-w" name="IS_UPDATED_POSITION" booleanValue="true"/>
-      <layoutConstraint xmi:type="notation:Location" xmi:id="_1uBSZNr5Eey6C9Ym-Eob-w" y="39"/>
+  <edges xmi:type="notation:Connector" xmi:id="_s-N7EeX5Eeyml9wYgykdig" type="Dependency_Edge" source="_fRiW4dr8Eey6C9Ym-Eob-w" target="_iG5acdr8Eey6C9Ym-Eob-w">
+    <children xmi:type="notation:DecorationNode" xmi:id="_s-N7FOX5Eeyml9wYgykdig" type="Dependency_NameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_s-N7FeX5Eeyml9wYgykdig" y="40"/>
     </children>
-    <children xmi:type="notation:DecorationNode" xmi:id="_1uBSZdr5Eey6C9Ym-Eob-w" type="Dependency_StereotypeLabel">
-      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_Zxqfwdr6Eey6C9Ym-Eob-w" name="IS_UPDATED_POSITION" booleanValue="true"/>
-      <layoutConstraint xmi:type="notation:Location" xmi:id="_1uBSZtr5Eey6C9Ym-Eob-w" x="-1" y="59"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_s-N7FuX5Eeyml9wYgykdig" type="Dependency_StereotypeLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_s-N7F-X5Eeyml9wYgykdig" y="60"/>
     </children>
-    <styles xmi:type="notation:FontStyle" xmi:id="_1uBSYdr5Eey6C9Ym-Eob-w"/>
-    <element xmi:type="uml:Dependency" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_1t3hYNr5Eey6C9Ym-Eob-w"/>
-    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_1uBSYtr5Eey6C9Ym-Eob-w" points="[420, 360, -643984, -643984]$[500, 276, -643984, -643984]"/>
-    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_1unIQNr5Eey6C9Ym-Eob-w" id="(0.5298013245033113,0.0)"/>
-    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_1unIQdr5Eey6C9Ym-Eob-w" id="(0.29850746268656714,1.0)"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_s-N7EuX5Eeyml9wYgykdig"/>
+    <element xmi:type="uml:Dependency" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_s-N7EOX5Eeyml9wYgykdig"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_s-N7E-X5Eeyml9wYgykdig" points="[80, 260, -643984, -643984]$[80, 200, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_s-p_8OX5Eeyml9wYgykdig" id="(0.40609137055837563,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_s-p_8eX5Eeyml9wYgykdig" id="(0.4,1.0)"/>
   </edges>
-  <edges xmi:type="notation:Connector" xmi:id="_fu89kdr6Eey6C9Ym-Eob-w" type="Dependency_Edge" source="_b7NmMdr6Eey6C9Ym-Eob-w" target="_bEQpsNryEey6C9Ym-Eob-w">
-    <children xmi:type="notation:DecorationNode" xmi:id="_fu89lNr6Eey6C9Ym-Eob-w" type="Dependency_NameLabel">
-      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_U6YgYNr9Eey6C9Ym-Eob-w" name="IS_UPDATED_POSITION" booleanValue="true"/>
-      <layoutConstraint xmi:type="notation:Location" xmi:id="_fu89ldr6Eey6C9Ym-Eob-w" x="-1" y="38"/>
+  <edges xmi:type="notation:Connector" xmi:id="_5gRtcOX5Eeyml9wYgykdig" type="Association_Edge" source="_b7NmMdr6Eey6C9Ym-Eob-w" target="_tJ-YQdr6Eey6C9Ym-Eob-w">
+    <children xmi:type="notation:DecorationNode" xmi:id="_5gRtc-X5Eeyml9wYgykdig" type="Association_StereotypeLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_5gRtdOX5Eeyml9wYgykdig" y="-20"/>
     </children>
-    <children xmi:type="notation:DecorationNode" xmi:id="_fu89ltr6Eey6C9Ym-Eob-w" type="Dependency_StereotypeLabel">
-      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_U6iRYNr9Eey6C9Ym-Eob-w" name="IS_UPDATED_POSITION" booleanValue="true"/>
-      <layoutConstraint xmi:type="notation:Location" xmi:id="_fu89l9r6Eey6C9Ym-Eob-w" x="-1" y="58"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_5gRtdeX5Eeyml9wYgykdig" type="Association_NameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_5gRtduX5Eeyml9wYgykdig" y="20"/>
     </children>
-    <styles xmi:type="notation:FontStyle" xmi:id="_fu89ktr6Eey6C9Ym-Eob-w"/>
-    <element xmi:type="uml:Dependency" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_fu89kNr6Eey6C9Ym-Eob-w"/>
-    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_fu89k9r6Eey6C9Ym-Eob-w" points="[640, 420, -643984, -643984]$[580, 340, -643984, -643984]"/>
-    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fvGHgNr6Eey6C9Ym-Eob-w" id="(0.37037037037037035,0.0)"/>
-    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fvGHgdr6Eey6C9Ym-Eob-w" id="(0.6965174129353234,1.0)"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_5gRtd-X5Eeyml9wYgykdig" type="Association_TargetRoleLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_5gRteOX5Eeyml9wYgykdig" y="-20"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_5gRteeX5Eeyml9wYgykdig" type="Association_SourceRoleLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_5gRteuX5Eeyml9wYgykdig" x="1" y="18"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_5gRte-X5Eeyml9wYgykdig" type="Association_SourceMultiplicityLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_5gRtfOX5Eeyml9wYgykdig" y="20"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_5gRtfeX5Eeyml9wYgykdig" type="Association_TargetMultiplicityLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_5gRtfuX5Eeyml9wYgykdig" x="1" y="-44"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_5gRtceX5Eeyml9wYgykdig"/>
+    <element xmi:type="uml:Association" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_5gH8cOX5Eeyml9wYgykdig"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_5gRtcuX5Eeyml9wYgykdig" points="[800, 228, -643984, -643984]$[800, 320, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5g3jUOX5Eeyml9wYgykdig" id="(0.49382716049382713,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5g3jUeX5Eeyml9wYgykdig" id="(0.5,0.0)"/>
   </edges>
-  <edges xmi:type="notation:Connector" xmi:id="_yv10kdr6Eey6C9Ym-Eob-w" type="Dependency_Edge" source="_b7NmMdr6Eey6C9Ym-Eob-w" target="_tJ-YQdr6Eey6C9Ym-Eob-w">
-    <children xmi:type="notation:DecorationNode" xmi:id="_yv10lNr6Eey6C9Ym-Eob-w" type="Dependency_NameLabel">
-      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_U6rbUNr9Eey6C9Ym-Eob-w" name="IS_UPDATED_POSITION" booleanValue="true"/>
-      <layoutConstraint xmi:type="notation:Location" xmi:id="_yv10ldr6Eey6C9Ym-Eob-w" x="1" y="39"/>
+  <edges xmi:type="notation:Connector" xmi:id="_GraSAOX6Eeyml9wYgykdig" type="Association_Edge" source="_Zt2Bodr4Eey6C9Ym-Eob-w" target="_bEQpsNryEey6C9Ym-Eob-w">
+    <children xmi:type="notation:DecorationNode" xmi:id="_GraSA-X6Eeyml9wYgykdig" type="Association_StereotypeLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_HDxHoOX6Eeyml9wYgykdig" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_GraSBOX6Eeyml9wYgykdig" y="-19"/>
     </children>
-    <children xmi:type="notation:DecorationNode" xmi:id="_yv10ltr6Eey6C9Ym-Eob-w" type="Dependency_StereotypeLabel">
-      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_U61MUNr9Eey6C9Ym-Eob-w" name="IS_UPDATED_POSITION" booleanValue="true"/>
-      <layoutConstraint xmi:type="notation:Location" xmi:id="_yv10l9r6Eey6C9Ym-Eob-w" x="1" y="59"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_GraSBeX6Eeyml9wYgykdig" type="Association_NameLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_HEECkOX6Eeyml9wYgykdig" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_GraSBuX6Eeyml9wYgykdig" x="-1" y="18"/>
     </children>
-    <styles xmi:type="notation:FontStyle" xmi:id="_yv10ktr6Eey6C9Ym-Eob-w"/>
-    <element xmi:type="uml:Dependency" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_yv10kNr6Eey6C9Ym-Eob-w"/>
-    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_yv10k9r6Eey6C9Ym-Eob-w" points="[762, 460, -643984, -643984]$[860, 460, -643984, -643984]"/>
-    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ywIvgNr6Eey6C9Ym-Eob-w" id="(1.0,0.3125)"/>
-    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ywIvgdr6Eey6C9Ym-Eob-w" id="(0.0,0.4166666666666667)"/>
-  </edges>
-  <edges xmi:type="notation:Connector" xmi:id="_0pJ0sdr8Eey6C9Ym-Eob-w" type="Dependency_Edge" source="_iG5acdr8Eey6C9Ym-Eob-w" target="_fRiW4dr8Eey6C9Ym-Eob-w">
-    <children xmi:type="notation:DecorationNode" xmi:id="_0pJ0tNr8Eey6C9Ym-Eob-w" type="Dependency_NameLabel">
-      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_Tz-5ANr9Eey6C9Ym-Eob-w" name="IS_UPDATED_POSITION" booleanValue="true"/>
-      <layoutConstraint xmi:type="notation:Location" xmi:id="_0pJ0tdr8Eey6C9Ym-Eob-w" x="-1" y="38"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_GraSB-X6Eeyml9wYgykdig" type="Association_TargetRoleLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_HENzkOX6Eeyml9wYgykdig" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_GraSCOX6Eeyml9wYgykdig" x="11" y="-19"/>
     </children>
-    <children xmi:type="notation:DecorationNode" xmi:id="_0pJ0ttr8Eey6C9Ym-Eob-w" type="Dependency_StereotypeLabel">
-      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_T0IqANr9Eey6C9Ym-Eob-w" name="IS_UPDATED_POSITION" booleanValue="true"/>
-      <layoutConstraint xmi:type="notation:Location" xmi:id="_0pJ0t9r8Eey6C9Ym-Eob-w" x="-1" y="57"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_GraSCeX6Eeyml9wYgykdig" type="Association_SourceRoleLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_HEXkkOX6Eeyml9wYgykdig" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_GraSCuX6Eeyml9wYgykdig" x="-11" y="18"/>
     </children>
-    <styles xmi:type="notation:FontStyle" xmi:id="_0pJ0str8Eey6C9Ym-Eob-w"/>
-    <element xmi:type="uml:Dependency" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_0pJ0sNr8Eey6C9Ym-Eob-w"/>
-    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_0pJ0s9r8Eey6C9Ym-Eob-w" points="[60, 160, -643984, -643984]$[60, 220, -643984, -643984]"/>
-    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_0pdWsNr8Eey6C9Ym-Eob-w" id="(0.4,1.0)"/>
-    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_0pdWsdr8Eey6C9Ym-Eob-w" id="(0.40609137055837563,0.0)"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_GraSC-X6Eeyml9wYgykdig" type="Association_SourceMultiplicityLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_HEgugOX6Eeyml9wYgykdig" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_GraSDOX6Eeyml9wYgykdig" x="11" y="18"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_GraSDeX6Eeyml9wYgykdig" type="Association_TargetMultiplicityLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_HEqfgOX6Eeyml9wYgykdig" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_GraSDuX6Eeyml9wYgykdig" x="-11" y="-19"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_GraSAeX6Eeyml9wYgykdig"/>
+    <element xmi:type="uml:Association" href="SantosAsCegas%20-%20diagrama%20de%20classe.uml#_GrQhAOX6Eeyml9wYgykdig"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_GraSAuX6Eeyml9wYgykdig" points="[540, 244, -643984, -643984]$[560, 320, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Gr298OX6Eeyml9wYgykdig" id="(0.5298013245033113,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Gr298eX6Eeyml9wYgykdig" id="(0.4975124378109453,0.0)"/>
   </edges>
 </notation:Diagram>

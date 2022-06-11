@@ -1,23 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_5c0NYNu_EeywRcQsMguUQw" name="SantosAsCegas - caso de uso Cliente">
-  <ownedComment xmi:type="uml:Comment" xmi:id="_FDiRgNvDEeywRcQsMguUQw">
-    <body>Envio de requisição via email&#xD;
-</body>
-  </ownedComment>
   <packageImport xmi:type="uml:PackageImport" xmi:id="_5dtlQNu_EeywRcQsMguUQw">
     <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
   </packageImport>
   <packagedElement xmi:type="uml:Actor" xmi:id="_6mSW4Nu_EeywRcQsMguUQw" name="Cliente"/>
-  <packagedElement xmi:type="uml:UseCase" xmi:id="_8dzSINu_EeywRcQsMguUQw" name="Postagem">
-    <include xmi:type="uml:Include" xmi:id="_D_L4kNvDEeywRcQsMguUQw" addition="_CHTRQNvAEeywRcQsMguUQw"/>
-  </packagedElement>
-  <packagedElement xmi:type="uml:UseCase" xmi:id="_9ualcNu_EeywRcQsMguUQw" name="Agendamento">
-    <include xmi:type="uml:Include" xmi:id="_BPL2INvDEeywRcQsMguUQw" addition="_CHTRQNvAEeywRcQsMguUQw"/>
-  </packagedElement>
-  <packagedElement xmi:type="uml:UseCase" xmi:id="__W3xANu_EeywRcQsMguUQw" name="Fale Conosco">
-    <include xmi:type="uml:Include" xmi:id="_DLnGkNvDEeywRcQsMguUQw" addition="_CHTRQNvAEeywRcQsMguUQw"/>
-  </packagedElement>
-  <packagedElement xmi:type="uml:UseCase" xmi:id="_CHTRQNvAEeywRcQsMguUQw" name="Preenche formulário"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_8dzSINu_EeywRcQsMguUQw" name="Fazer postagem"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_9ualcNu_EeywRcQsMguUQw" name="Fazer agendamento"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="__W3xANu_EeywRcQsMguUQw" name="Entrar em contato (Fale Conosco)"/>
   <packagedElement xmi:type="uml:Association" xmi:id="_Q50qYNvAEeywRcQsMguUQw" memberEnd="_Q50qY9vAEeywRcQsMguUQw _Q50qZNvAEeywRcQsMguUQw">
     <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Q50qYdvAEeywRcQsMguUQw" source="org.eclipse.papyrus">
       <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Q50qYtvAEeywRcQsMguUQw" key="nature" value="UML_Nature"/>

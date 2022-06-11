@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_gH1zoOX7Eeyml9wYgykdig" name="SantosAsCegas - diagrama de componentes">
+  <packageImport xmi:type="uml:PackageImport" xmi:id="_gIvLgOX7Eeyml9wYgykdig">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+  </packageImport>
+  <packagedElement xmi:type="uml:Component" xmi:id="_brDp0OX8Eeyml9wYgykdig" name="AgendaController">
+    <packagedElement xmi:type="uml:Usage" xmi:id="_8hGzkOlOEey-qIskXTCI3g" client="_brDp0OX8Eeyml9wYgykdig" supplier="_OztxsOYBEeyml9wYgykdig"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Component" xmi:id="_frxtQOX8Eeyml9wYgykdig" name="AppointmentController">
+    <packagedElement xmi:type="uml:Usage" xmi:id="_jTVjkOlOEey-qIskXTCI3g" client="_frxtQOX8Eeyml9wYgykdig" supplier="_ZyQKgOa_EeyOg77l5Y9bWQ"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Component" xmi:id="_lFZdUOX8Eeyml9wYgykdig" name="PostController">
+    <packagedElement xmi:type="uml:Usage" xmi:id="_Cqw5cOlPEey-qIskXTCI3g" client="_lFZdUOX8Eeyml9wYgykdig" supplier="_sjQycOa_EeyOg77l5Y9bWQ"/>
+    <packagedElement xmi:type="uml:Usage" xmi:id="_F1l2sOlPEey-qIskXTCI3g" client="_lFZdUOX8Eeyml9wYgykdig" supplier="_CnO6kekeEeyBifoS7BM1_Q"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Component" xmi:id="_o5VB8OX8Eeyml9wYgykdig" name="ContactController">
+    <packagedElement xmi:type="uml:Usage" xmi:id="_CKIRkOlPEey-qIskXTCI3g" client="_o5VB8OX8Eeyml9wYgykdig" supplier="_FQQQoObAEeyOg77l5Y9bWQ"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Component" xmi:id="_zN3M0OX8Eeyml9wYgykdig" name="FileController">
+    <packagedElement xmi:type="uml:Usage" xmi:id="_arH7IOlPEey-qIskXTCI3g" client="_zN3M0OX8Eeyml9wYgykdig" supplier="_SqhdYObAEeyOg77l5Y9bWQ"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Component" xmi:id="_hJlAoOX_Eeyml9wYgykdig" name="AgendaService">
+    <interfaceRealization xmi:type="uml:InterfaceRealization" xmi:id="_9L1yoOlOEey-qIskXTCI3g" client="_hJlAoOX_Eeyml9wYgykdig" supplier="_L4_xIOa-EeyOg77l5Y9bWQ" contract="_L4_xIOa-EeyOg77l5Y9bWQ"/>
+    <interfaceRealization xmi:type="uml:InterfaceRealization" xmi:id="_-t4-wOlPEey-qIskXTCI3g" client="_hJlAoOX_Eeyml9wYgykdig" supplier="_pztMAOkcEeyBifoS7BM1_Q" contract="_pztMAOkcEeyBifoS7BM1_Q"/>
+    <packagedElement xmi:type="uml:Usage" xmi:id="_4tQugOlOEey-qIskXTCI3g" client="_hJlAoOX_Eeyml9wYgykdig" supplier="_DOQuQObBEeyOg77l5Y9bWQ"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Component" xmi:id="_mSGZoOX_Eeyml9wYgykdig" name="AppointmentService">
+    <interfaceRealization xmi:type="uml:InterfaceRealization" xmi:id="_kouCIOlOEey-qIskXTCI3g" client="_mSGZoOX_Eeyml9wYgykdig" supplier="_ZyPjcOa_EeyOg77l5Y9bWQ" contract="_ZyPjcOa_EeyOg77l5Y9bWQ"/>
+    <packagedElement xmi:type="uml:Usage" xmi:id="_RFmAwOlOEey-qIskXTCI3g" client="_mSGZoOX_Eeyml9wYgykdig" supplier="_NLJ1MObBEeyOg77l5Y9bWQ"/>
+    <packagedElement xmi:type="uml:Usage" xmi:id="_888lkOlPEey-qIskXTCI3g" client="_mSGZoOX_Eeyml9wYgykdig" supplier="_pzsk8OkcEeyBifoS7BM1_Q"/>
+    <packagedElement xmi:type="uml:Usage" xmi:id="_FucQYOlQEey-qIskXTCI3g" client="_mSGZoOX_Eeyml9wYgykdig" supplier="_CHeR4OkdEeyBifoS7BM1_Q"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Component" xmi:id="_wcWAEOX_Eeyml9wYgykdig" name="AppUserService">
+    <interfaceRealization xmi:type="uml:InterfaceRealization" xmi:id="_qOap4OlPEey-qIskXTCI3g" client="_wcWAEOX_Eeyml9wYgykdig" supplier="_eAQrwOkfEeyBifoS7BM1_Q" contract="_eAQrwOkfEeyBifoS7BM1_Q"/>
+    <packagedElement xmi:type="uml:Usage" xmi:id="_lhlHUOlPEey-qIskXTCI3g" client="_wcWAEOX_Eeyml9wYgykdig" supplier="_rzbmEObBEeyOg77l5Y9bWQ"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Component" xmi:id="_zizasOX_Eeyml9wYgykdig" name="PostService">
+    <interfaceRealization xmi:type="uml:InterfaceRealization" xmi:id="_DEJp0OlPEey-qIskXTCI3g" client="_zizasOX_Eeyml9wYgykdig" supplier="_sjRZgOa_EeyOg77l5Y9bWQ" contract="_sjRZgOa_EeyOg77l5Y9bWQ"/>
+    <packagedElement xmi:type="uml:Usage" xmi:id="_NR_W0OlPEey-qIskXTCI3g" client="_zizasOX_Eeyml9wYgykdig" supplier="_U3PXIObBEeyOg77l5Y9bWQ"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Component" xmi:id="_FBffIOYAEeyml9wYgykdig" name="ContactService">
+    <interfaceRealization xmi:type="uml:InterfaceRealization" xmi:id="_DYqhQOlPEey-qIskXTCI3g" client="_FBffIOYAEeyml9wYgykdig" supplier="_FQPpkObAEeyOg77l5Y9bWQ" contract="_FQPpkObAEeyOg77l5Y9bWQ"/>
+    <packagedElement xmi:type="uml:Usage" xmi:id="_xc104OlOEey-qIskXTCI3g" client="_FBffIOYAEeyml9wYgykdig" supplier="_ly6lMekeEeyBifoS7BM1_Q"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Component" xmi:id="_JP1H0OYAEeyml9wYgykdig" name="EmailService">
+    <interfaceRealization xmi:type="uml:InterfaceRealization" xmi:id="_1RyGIOlOEey-qIskXTCI3g" client="_JP1H0OYAEeyml9wYgykdig" supplier="_ly6lMOkeEeyBifoS7BM1_Q" contract="_ly6lMOkeEeyBifoS7BM1_Q"/>
+    <interfaceRealization xmi:type="uml:InterfaceRealization" xmi:id="_GTQNoOlQEey-qIskXTCI3g" client="_JP1H0OYAEeyml9wYgykdig" supplier="_CHe48OkdEeyBifoS7BM1_Q" contract="_CHe48OkdEeyBifoS7BM1_Q"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Component" xmi:id="_N9RuYOYAEeyml9wYgykdig" name="FileService">
+    <interfaceRealization xmi:type="uml:InterfaceRealization" xmi:id="_GXC98OlPEey-qIskXTCI3g" client="_N9RuYOYAEeyml9wYgykdig" supplier="_CnO6kOkeEeyBifoS7BM1_Q" contract="_CnO6kOkeEeyBifoS7BM1_Q"/>
+    <interfaceRealization xmi:type="uml:InterfaceRealization" xmi:id="_bGMGgOlPEey-qIskXTCI3g" client="_N9RuYOYAEeyml9wYgykdig" supplier="_Sqg2UObAEeyOg77l5Y9bWQ" contract="_Sqg2UObAEeyOg77l5Y9bWQ"/>
+    <packagedElement xmi:type="uml:Usage" xmi:id="_OrxNMOlPEey-qIskXTCI3g" client="_N9RuYOYAEeyml9wYgykdig" supplier="_hj7FIObBEeyOg77l5Y9bWQ"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Component" xmi:id="_fn1roOYAEeyml9wYgykdig" name="AgendaRepository">
+    <interfaceRealization xmi:type="uml:InterfaceRealization" xmi:id="_5eLOEOlOEey-qIskXTCI3g" client="_fn1roOYAEeyml9wYgykdig" supplier="_DOQHMObBEeyOg77l5Y9bWQ" contract="_DOQHMObBEeyOg77l5Y9bWQ"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Component" xmi:id="_h0g-kOYAEeyml9wYgykdig" name="AppointmentRepository">
+    <interfaceRealization xmi:type="uml:InterfaceRealization" xmi:id="_XVVggOlOEey-qIskXTCI3g" client="_h0g-kOYAEeyml9wYgykdig" supplier="_NLJ1MebBEeyOg77l5Y9bWQ" contract="_NLJ1MebBEeyOg77l5Y9bWQ"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Component" xmi:id="_m1PtgOYAEeyml9wYgykdig" name="AppUserRepository">
+    <interfaceRealization xmi:type="uml:InterfaceRealization" xmi:id="_mCW5IOlPEey-qIskXTCI3g" client="_m1PtgOYAEeyml9wYgykdig" supplier="_rzcNIObBEeyOg77l5Y9bWQ" contract="_rzcNIObBEeyOg77l5Y9bWQ"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Component" xmi:id="_sWo5gOYAEeyml9wYgykdig" name="PostRepository">
+    <interfaceRealization xmi:type="uml:InterfaceRealization" xmi:id="_PmM1IOlPEey-qIskXTCI3g" client="_sWo5gOYAEeyml9wYgykdig" supplier="_U3P-MebBEeyOg77l5Y9bWQ" contract="_U3P-MebBEeyOg77l5Y9bWQ"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Component" xmi:id="_x0hegOYAEeyml9wYgykdig" name="FileRepository">
+    <interfaceRealization xmi:type="uml:InterfaceRealization" xmi:id="_PN64AOlPEey-qIskXTCI3g" client="_x0hegOYAEeyml9wYgykdig" supplier="_hj6eEObBEeyOg77l5Y9bWQ" contract="_hj6eEObBEeyOg77l5Y9bWQ"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_OztxsOYBEeyml9wYgykdig" name="usa"/>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_L4_xIOa-EeyOg77l5Y9bWQ" name="fornece"/>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_ZyPjcOa_EeyOg77l5Y9bWQ" name="fornece"/>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_ZyQKgOa_EeyOg77l5Y9bWQ" name="usa"/>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_sjQycOa_EeyOg77l5Y9bWQ" name="usa"/>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_sjRZgOa_EeyOg77l5Y9bWQ" name="fornece"/>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_FQPpkObAEeyOg77l5Y9bWQ" name="fornece"/>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_FQQQoObAEeyOg77l5Y9bWQ" name="usa"/>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_Sqg2UObAEeyOg77l5Y9bWQ" name="fornece"/>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_SqhdYObAEeyOg77l5Y9bWQ" name="usa"/>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_DOQHMObBEeyOg77l5Y9bWQ" name="fornece"/>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_DOQuQObBEeyOg77l5Y9bWQ" name="usa"/>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_NLJ1MObBEeyOg77l5Y9bWQ" name="usa"/>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_NLJ1MebBEeyOg77l5Y9bWQ" name="fornece"/>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_U3PXIObBEeyOg77l5Y9bWQ" name="usa"/>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_U3P-MebBEeyOg77l5Y9bWQ" name="fornece"/>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_hj6eEObBEeyOg77l5Y9bWQ" name="fornece"/>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_hj7FIObBEeyOg77l5Y9bWQ" name="usa"/>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_rzbmEObBEeyOg77l5Y9bWQ" name="usa"/>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_rzcNIObBEeyOg77l5Y9bWQ" name="fornece"/>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_pzsk8OkcEeyBifoS7BM1_Q" name="usa"/>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_pztMAOkcEeyBifoS7BM1_Q" name="fornece"/>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_CHeR4OkdEeyBifoS7BM1_Q" name="usa"/>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_CHe48OkdEeyBifoS7BM1_Q" name="fornece"/>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_CnO6kOkeEeyBifoS7BM1_Q" name="fornece"/>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_CnO6kekeEeyBifoS7BM1_Q" name="usa"/>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_ly6lMOkeEeyBifoS7BM1_Q" name="fornece"/>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_ly6lMekeEeyBifoS7BM1_Q" name="usa"/>
+  <packagedElement xmi:type="uml:Component" xmi:id="_WgfukOkfEeyBifoS7BM1_Q" name="AppUserController">
+    <packagedElement xmi:type="uml:Usage" xmi:id="_lDHCoOlPEey-qIskXTCI3g" client="_WgfukOkfEeyBifoS7BM1_Q" supplier="_eAQrwekfEeyBifoS7BM1_Q"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_eAQrwOkfEeyBifoS7BM1_Q" name="fornece"/>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_eAQrwekfEeyBifoS7BM1_Q" name="usa"/>
+  <profileApplication xmi:type="uml:ProfileApplication" xmi:id="_pbu2QOa-EeyOg77l5Y9bWQ">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_pbvdUOa-EeyOg77l5Y9bWQ" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <references xmi:type="ecore:EPackage" href="pathmap://PAPYRUS_ACTIONLANGUAGE_PROFILE/ActionLanguage-Profile.profile.uml#_Kv8EIKFXEeS_KNX0nfvIVQ"/>
+    </eAnnotations>
+    <appliedProfile xmi:type="uml:Profile" href="pathmap://PAPYRUS_ACTIONLANGUAGE_PROFILE/ActionLanguage-Profile.profile.uml#ActionLanguage"/>
+  </profileApplication>
+</uml:Model>
